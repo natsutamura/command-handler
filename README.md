@@ -13,7 +13,8 @@ Menggunakan **Discord.js** versi **12**!
 5. Tambah paket NPM yang diperlukan di `package.json`                                                                       
 5. Lalu ketikan **refresh** di `terminal`
 7. **SELESAI!**
-                                                                                                                                                  
+### Cara Membuat Bot Online!
+1. Buka `INSTALL.md`                                                                                                                                                  
 Untuk pengaktifan bot **24 jam**, tonton videoku di **[sini](https://youtube.com/rayhantech)** atau **[disini](https://www.youtube.com/channel/UCV6c67PLrgc6CWNzFXiVQSA/)**
 # Link
 [Donate](https://saweria.co/donate/rayhantech) | [Discord Server](https://discord.gg/6NpEfbM) | [Discord Bots](https://top.gg/user/585371124766998528) | [Donasi Tim](https://saweria.co/clientdev)
