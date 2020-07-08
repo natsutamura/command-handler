@@ -1,6 +1,8 @@
 const Discord = require("discord.js");
 const config = require("./config.json");
 const client = new Discord.Client();
+require('dotenv').config()
+
 //UPTIME ROBOT (WEB)
 const { get } = require("snekfetch");
 const http = require("http");
@@ -16,7 +18,7 @@ setInterval(() => {
 }, 280000);
 
 client.on("ready", async () => {
-  console.log(`${client.user.username} is ready!`);
+  console.log(`${client.user.username} is ready Created by rayhantech#4999!`);
   client.user.setActivity(`${config.prefix}help`, {type: "PLAYING"}); //UBAH PRESENCE/STATUS BOT DISINI
 });
 
