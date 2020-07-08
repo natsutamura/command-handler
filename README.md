@@ -5,6 +5,9 @@
 Ini adalah command handler yang simpel, dapat digunakan untuk bot discord.     
 Menggunakan **Discord.js** versi **12**!
 
+### REMIX GLITCH?
+
+Buka [REMIX.MD](https://github.com/Client-Developer-ID/command-handler/blob/master/REMIX.md)
 
 ### Langkah-langkah untuk membuat bot!
 1. Isi **DISCORD TOKEN** kamu di `.env`                                                                                                                                              
@@ -15,7 +18,8 @@ Menggunakan **Discord.js** versi **12**!
 5. Lalu ketikan **refresh** di `terminal`
 7. **SELESAI!**
 ### Cara Membuat Bot Online!
-1. Buka `INSTALL.md`                                                                                                                                                  
+
+Buka [INSTALL.md](https://github.com/Client-Developer-ID/command-handler/blob/master/INSTALL.md)                                                                                                                                                 
 Untuk pengaktifan bot **24 jam**, tonton videoku di **[sini](https://youtube.com/rayhantech)** atau **[disini](https://www.youtube.com/channel/UCV6c67PLrgc6CWNzFXiVQSA/)**
 # Link
 [Donate](https://saweria.co/donate/rayhantech) | [Discord Server](https://discord.gg/6NpEfbM) | [Discord Bots](https://top.gg/user/585371124766998528) | [Donasi Tim](https://saweria.co/clientdev)
