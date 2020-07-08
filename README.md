@@ -7,7 +7,7 @@ Menggunakan **Discord.js** versi **12**!
 
 ### REMIX GLITCH?
 
-Buka [REMIX.MD](https://github.com/Client-Developer-ID/command-handler/blob/master/REMIX.md)
+Buka [REMIX.md](https://github.com/Client-Developer-ID/command-handler/blob/master/REMIX.md)
 
 ### Langkah-langkah untuk membuat bot!
 1. Isi **DISCORD TOKEN** kamu di `.env`                                                                                                                                              
