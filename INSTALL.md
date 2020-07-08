@@ -10,9 +10,12 @@
 ### Glitch Penginstallan (Glitch)!
 1. Pertama git cloning ini dengan cara memasukan ke **Glitch -> New project -> Import From Github** masukan `https://github.com/Client-Developer-ID/command-handler.git`
 2. Bikinlah projek kamu private untuk pengamanan dengan cara **Project Option -> Make This Project Private**
-3. Tunggu proses penginstalan npm otomatis
-4. untuk mereload gunakan (spasi) di watch.json
-5. bot Sudah Online!                                                                                                                                                  
+3. Ganti `.env_example` jadi `.env`
+4. isi semua yang dibutuhkan dari `.env`
+**TOKEN=MASUKKAN TOKEN DISCORD BOT KALIAN DISINI**
+5. Tunggu proses penginstalan npm otomatis
+6. untuk mereload gunakan (spasi) di watch.json
+7. bot Sudah Online!                                                                                                                                                  
 Untuk pengaktifan bot **24 jam**, tonton videoku di **[sini](https://youtube.com/rayhantech)** atau **[disini](https://www.youtube.com/channel/UCV6c67PLrgc6CWNzFXiVQSA/)**
 # Link
 [Donate](https://saweria.co/donate/rayhantech) | [Discord Server](https://discord.gg/6NpEfbM) | [Discord Bots](https://top.gg/user/585371124766998528) | [Donasi Tim](https://saweria.co/clientdev)
